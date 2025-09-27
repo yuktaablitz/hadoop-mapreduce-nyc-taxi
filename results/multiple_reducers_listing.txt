@@ -1,0 +1,7 @@
+Found 6 items
+-rw-r--r--   1 spartan supergroup          0 2025-09-27 01:42 /user/spartan/multiple_reducers_test/_SUCCESS
+-rw-r--r--   1 spartan supergroup         52 2025-09-27 01:41 /user/spartan/multiple_reducers_test/part-00000
+-rw-r--r--   1 spartan supergroup          0 2025-09-27 01:42 /user/spartan/multiple_reducers_test/part-00001
+-rw-r--r--   1 spartan supergroup         44 2025-09-27 01:42 /user/spartan/multiple_reducers_test/part-00002
+-rw-r--r--   1 spartan supergroup        106 2025-09-27 01:42 /user/spartan/multiple_reducers_test/part-00003
+-rw-r--r--   1 spartan supergroup        105 2025-09-27 01:42 /user/spartan/multiple_reducers_test/part-00004

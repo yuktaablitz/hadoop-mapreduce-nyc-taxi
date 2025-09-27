@@ -1,0 +1,20 @@
+Found 19 items
+-rw-r--r--   1 spartan supergroup          0 2025-09-27 01:40 /user/spartan/zero_reducers_test/_SUCCESS
+-rw-r--r--   1 spartan supergroup   33767325 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00000
+-rw-r--r--   1 spartan supergroup   33583779 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00001
+-rw-r--r--   1 spartan supergroup   33734413 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00002
+-rw-r--r--   1 spartan supergroup   33987718 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00003
+-rw-r--r--   1 spartan supergroup   33553686 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00004
+-rw-r--r--   1 spartan supergroup   20405761 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00005
+-rw-r--r--   1 spartan supergroup   20389364 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00006
+-rw-r--r--   1 spartan supergroup   20408965 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00007
+-rw-r--r--   1 spartan supergroup   20387635 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00008
+-rw-r--r--   1 spartan supergroup   20404784 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00009
+-rw-r--r--   1 spartan supergroup   20574396 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00010
+-rw-r--r--   1 spartan supergroup   20380073 2025-09-27 01:39 /user/spartan/zero_reducers_test/part-00011
+-rw-r--r--   1 spartan supergroup   20387132 2025-09-27 01:40 /user/spartan/zero_reducers_test/part-00012
+-rw-r--r--   1 spartan supergroup   20392365 2025-09-27 01:40 /user/spartan/zero_reducers_test/part-00013
+-rw-r--r--   1 spartan supergroup   20429675 2025-09-27 01:40 /user/spartan/zero_reducers_test/part-00014
+-rw-r--r--   1 spartan supergroup   18848690 2025-09-27 01:40 /user/spartan/zero_reducers_test/part-00015
+-rw-r--r--   1 spartan supergroup   22224065 2025-09-27 01:40 /user/spartan/zero_reducers_test/part-00016
+-rw-r--r--   1 spartan supergroup          0 2025-09-27 01:40 /user/spartan/zero_reducers_test/part-00017

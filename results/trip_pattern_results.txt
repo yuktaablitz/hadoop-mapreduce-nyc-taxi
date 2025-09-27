@@ -1,0 +1,12 @@
+Evening_Rush_Long	14.28	1334319
+Evening_Rush_Medium	6.65	2388305
+Evening_Rush_Short	0.67	242209
+Midday_Long	13.91	2057880
+Midday_Medium	6.65	3217100
+Midday_Short	0.70	339612
+Morning_Rush_Long	13.93	1017099
+Morning_Rush_Medium	6.85	1354578
+Morning_Rush_Short	0.60	151739
+Off_Peak_Long	14.28	2006088
+Off_Peak_Medium	7.22	3649171
+Off_Peak_Short	0.47	277179
