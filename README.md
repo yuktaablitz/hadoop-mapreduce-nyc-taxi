@@ -18,8 +18,9 @@ This project demonstrates distributed data processing using Hadoop MapReduce on 
 ## Project Structure
 ├── code/                    # Python MapReduce scripts
 ├── documentation/           # Assignment report and analysis
-├── screenshots/            # Terminal and web UI screenshots results/               # MapReduce job outputs
-README.md             # Project overview
+├── screenshots/            # Terminal and web UI screenshots
+├── results/               # MapReduce job outputs
+└── README.md             # Project overview
 ## Key Results
 - **Data Quality**: 98.3% clean records from 18M+ processed
 - **Peak Performance**: Processed 2.1GB data across distributed cluster
